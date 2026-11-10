@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: "YAIB AKI reproduction on the eICU and MIMIC-III demo cohorts: code, notebook and per-fold results"
+abstract: >-
+  Code, Google Colab notebook and per-fold results of an independent
+  reproduction of the acute kidney injury (AKI) task of Yet Another ICU
+  Benchmark (YAIB) on its public eICU and MIMIC-III demo cohorts, with an
+  adaptation of the task to moderate-to-severe AKI (KDIGO stage 2 or higher).
+type: software
+authors:
+  - family-names: Pham
+    given-names: Truong Thanh
+    affiliation: "University of Health Sciences, Vietnam National University Ho Chi Minh City; Military Hospital 175, Ho Chi Minh City, Vietnam"
+license: MIT
+repository-code: "https://github.com/phamthanhdr-commits/yaib-aki-reproduction"
+keywords:
+  - acute kidney injury
+  - intensive care
+  - machine learning
+  - reproducibility
+  - benchmark
+  - YAIB
+version: 1.0.0
+date-released: "2026-11-10"

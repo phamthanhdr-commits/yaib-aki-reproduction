@@ -1,5 +1,7 @@
 # YAIB AKI reproduction on the eICU and MIMIC-III demo cohorts
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24115153.svg)](https://doi.org/10.5281/zenodo.24115153)
+
 This repository holds the code and outputs behind our reproduction of the acute kidney injury (AKI) task of Yet Another ICU Benchmark (YAIB; van de Water et al., ICLR 2024). We reran the task from the public [YAIB](https://github.com/rvandewater/YAIB) code and the eICU and MIMIC-III demo cohorts shipped with it. We then traced the differences from the paper to specific code versions and adapted the task to moderate-to-severe AKI (KDIGO stage ≥2).
 
 Manuscript: Pham TT, et al. *Reproducing an open intensive care machine-learning benchmark for acute kidney injury: software version drift, undocumented label design, and adaptation to moderate-to-severe AKI.* In preparation.

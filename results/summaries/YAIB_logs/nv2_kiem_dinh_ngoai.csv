@@ -1,0 +1,4 @@
+kịch bản,AUROC,AUPRC,số fold
+Huấn luyện và kiểm tra trên MIMIC-III demo,58.3 ± 1.6,18.9 ± 1.4,25
+Huấn luyện trên eICU demo → kiểm tra trên MIMIC-III demo,69.5 ± 2.0,34.8 ± 3.1,25
+Chênh lệch theo cặp (eICU→MIMIC trừ MIMIC→MIMIC),+11.2 ± 2.8,+15.9 ± 3.1,25

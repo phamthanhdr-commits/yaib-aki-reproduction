@@ -1,0 +1,11 @@
+nhãn,kịch bản,số fold,AUROC mọi giờ,AUROC trước khởi phát,AUPRC mọi giờ,AUPRC trước khởi phát,giờ dương: mọi giờ / trước khởi phát
+"KDIGO ≥ 1, demo gốc",eICU → eICU,25,76.9 ± 0.4,70.3 ± 0.5,31.1 ± 0.6,13.4 ± 0.4,11.3% / 5.7%
+"KDIGO ≥ 1, demo gốc",MIMIC → MIMIC,25,58.3 ± 1.6,57.5 ± 1.7,18.9 ± 1.4,11.0 ± 1.1,11.4% / 5.7%
+"KDIGO ≥ 1, demo gốc",eICU → MIMIC,25,71.1 ± 1.7,65.9 ± 1.8,31.0 ± 2.3,15.8 ± 1.5,11.4% / 5.7%
+"KDIGO ≥ 1, demo gốc",Chênh lệch theo cặp (mọi giờ),25,12.8 ± 2.5,,,,
+"KDIGO ≥ 1, demo gốc",Chênh lệch theo cặp (trước khởi phát),25,,8.3 ± 2.6,,,
+"KDIGO ≥ 2, sinh lại",eICU → eICU,25,76.6 ± 0.3,72.8 ± 0.3,18.7 ± 0.4,8.2 ± 0.2,4.9% / 2.4%
+"KDIGO ≥ 2, sinh lại",MIMIC → MIMIC,25,76.5 ± 1.9,73.5 ± 1.9,34.2 ± 2.0,22.9 ± 2.1,4.4% / 2.1%
+"KDIGO ≥ 2, sinh lại",eICU → MIMIC,25,81.5 ± 1.0,76.7 ± 1.6,32.1 ± 1.4,16.1 ± 1.2,4.4% / 2.1%
+"KDIGO ≥ 2, sinh lại",Chênh lệch theo cặp (mọi giờ),25,5.1 ± 1.8,,,,
+"KDIGO ≥ 2, sinh lại",Chênh lệch theo cặp (trước khởi phát),25,,3.2 ± 2.1,,,

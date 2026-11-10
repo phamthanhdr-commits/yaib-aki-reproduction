@@ -1,0 +1,7 @@
+bộ dữ liệu,cohort,số lượt ICU,ca dương,giờ nhãn 1,AUROC,AUPRC,số fold
+eicu_demo,"KDIGO ≥ 1, dữ liệu demo gốc",1988,698 (35.1%),11.3%,76.9 ± 0.4,31.1 ± 0.6,25
+eicu_demo,"KDIGO ≥ 1, sinh lại",1978,697 (35.2%),11.3%,76.6 ± 0.2,31.7 ± 0.7,25
+eicu_demo,"KDIGO ≥ 2, sinh lại",1921,349 (18.2%),4.9%,76.6 ± 0.3,18.7 ± 0.4,25
+mimic_demo,"KDIGO ≥ 1, dữ liệu demo gốc",113,44 (38.9%),11.3%,58.3 ± 1.6,18.9 ± 1.4,25
+mimic_demo,"KDIGO ≥ 1, sinh lại",113,44 (38.9%),11.3%,63.6 ± 1.4,21.2 ± 1.5,25
+mimic_demo,"KDIGO ≥ 2, sinh lại",127,26 (20.5%),4.3%,76.5 ± 1.9,34.2 ± 2.0,25

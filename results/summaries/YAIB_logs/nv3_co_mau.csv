@@ -1,0 +1,7 @@
+bộ dữ liệu,cohort,số lượt ICU,số ca dương,tỷ lệ ca dương,số giờ,tỷ lệ giờ nhãn 1
+eicu_demo,"KDIGO ≥ 1, dữ liệu demo gốc",1988,698,35.1%,78205,11.3%
+eicu_demo,"KDIGO ≥ 1, sinh lại",1978,697,35.2%,77917,11.3%
+eicu_demo,"KDIGO ≥ 2, sinh lại",1921,349,18.2%,90619,4.9%
+mimic_demo,"KDIGO ≥ 1, dữ liệu demo gốc",113,44,38.9%,4968,11.3%
+mimic_demo,"KDIGO ≥ 1, sinh lại",113,44,38.9%,4968,11.3%
+mimic_demo,"KDIGO ≥ 2, sinh lại",127,26,20.5%,7590,4.3%

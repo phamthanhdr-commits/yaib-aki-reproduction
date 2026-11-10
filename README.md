@@ -10,8 +10,7 @@ Manuscript: Pham TT, et al. *Reproducing an open intensive care machine-learning
 | --- | --- |
 | `notebooks/YAIB_AKI_reproduction_colab.ipynb` | The Google Colab notebook we ran, with its outputs |
 | `cells/` | The five supplementary notebook cells (o1–o5) as standalone scripts, matching notebook cells 25 and 27–30 |
-
-Per-fold test metrics for every run will be added under `results/`.
+| `results/` | Per-fold test metrics of every run, a summary per run, and the summary tables saved by the notebook; see `results/README.md` |
 
 The notebook's headings and comments are in Vietnamese. The code, commands and printed outputs are as run, and the table below maps each cell to the manuscript.
 

@@ -1,0 +1,7 @@
+mô hình,phiên bản,AUROC,AUPRC,Δ AUROC so với bài báo
+LGBMClassifier,Bài báo (Bảng 11),72.6 ± 0.3,23.8 ± 0.4,0.0
+LGBMClassifier,"Mã 26/05/2023, Colab",73.8 ± 0.6,26.6 ± 0.7,1.2
+LGBMClassifier,Mã hiện tại (c61fad0),76.9 ± 0.4,31.1 ± 0.6,4.3
+LogisticRegression,Bài báo (Bảng 11),61.3 ± 0.6,16.8 ± 0.4,0.0
+LogisticRegression,"Mã 26/05/2023, Colab",49.9 ± 0.8,11.9 ± 0.4,-11.4
+LogisticRegression,Mã hiện tại (c61fad0),67.5 ± 0.4,20.0 ± 0.4,6.2
